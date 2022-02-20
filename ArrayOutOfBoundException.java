@@ -1,4 +1,3 @@
-package TICTAC;
 
 public class ArrayOutOfBoundException extends Exception {
   public ArrayOutOfBoundException() {
