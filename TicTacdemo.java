@@ -1,5 +1,3 @@
-package TICTAC;
-
 
 import java.util.Scanner;
 
